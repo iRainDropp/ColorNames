@@ -1,9 +1,0 @@
-name: NameColor
-version: 1.0
-api: [3.0.0, 4.0.0]
-main: NameColor\Main
-author: iRainDrop
-commands:
-  color:
-    usage: "§cUsage: /color <color>"
-    description: Change the color of your display name in Chat.
